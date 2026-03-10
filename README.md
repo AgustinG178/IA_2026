@@ -4,7 +4,7 @@ Bienvenido/a al repositorio oficial para la cátedra de **Inteligencia Artificia
 
 **Integrantes:**
 * **Irina Lauritto**
-* **[Tu Nombre y Apellido]**
+* **Agustín Grioni**
 
 ---
 
